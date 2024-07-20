@@ -1,4 +1,4 @@
-# FNF Pysch Engine Linux Compiled Binaries
+# FNF Pysch Engine Linux PRE-compiled Binaries
 FNF psych engine precompiled binaries for linux
 ## Credits:
 * Shadow Mario - Programmer
