@@ -3,8 +3,6 @@ FNF psych engine precompiled binaries for linux
 ## Credits:
 * Shadow Mario - Programmer
 * Riveren - Artist
-
-## Special Thanks
 * bbpanzu - Ex-Programmer
 * Yoshubs - Ex-Programmer
 * SqirraRNG - Crash Handler and Base code for Chart Editor's Waveform
